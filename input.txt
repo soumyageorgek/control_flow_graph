@@ -1,0 +1,27 @@
+a = 0
+b = 1
+k = 1
+L0: d = 3
+e = k
+m = 0
+p = m
+k = p + 1
+p = n
+L1: c = a + b
+d = 0
+a = b
+b = c
+if c < n goto L1
+if d < 11 goto L3
+e = e + 3
+goto L3
+L7: a = b + c
+L2: n = e + 2
+L3: b = b + e
+q = 5
+d = 2
+e = q + 1
+q = 6
+n = c - n
+q = 7
+e = q + 8
